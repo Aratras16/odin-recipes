@@ -1,0 +1,35 @@
+.reference {
+    color: blueviolet;
+    background-color: chartreuse;
+    text-align: center;
+}
+h1,h2{
+    color: cyan;
+    background-color: lightcoral;
+    font-weight: bold;
+    text-align: center;
+}
+h1{
+    font-size: 40ṕx;
+}
+h2 {
+    font-size: 30px;
+}
+img {
+    width: 300px;
+    height: auto;
+}
+p {
+    color: lightsalmon;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+ol,ul {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+ol {
+    color: lime;
+}
+ul {color: maroon;}
